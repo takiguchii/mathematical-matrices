@@ -1,0 +1,9 @@
+to,Estratégia,FPS,Luta,Mundo Aberto,Plataforma 2D,RPG,Roguelike,Souls-like
+Estratégia,0,1,0,2,0,3,1,1
+FPS,1,0,2,3,0,1,0,2
+Luta,0,2,0,0,1,0,0,2
+Mundo Aberto,2,3,0,0,1,4,0,1
+Plataforma 2D,0,0,1,1,0,1,2,0
+RPG,3,1,0,4,1,0,1,3
+Roguelike,1,0,0,0,2,1,0,1
+Souls-like,1,2,2,1,0,3,1,0
